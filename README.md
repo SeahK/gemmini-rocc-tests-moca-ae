@@ -1,3 +1,6 @@
+This repository is for HPCA'23 MoCA workload, forked from gemmini-rocc-tests.
+Following instructions are for gemmini-rocc-tests.
+
 # Quickstart
 1. Clone submodules:
     ```bash
